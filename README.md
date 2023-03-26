@@ -5,5 +5,7 @@
 + Kingfisher
 + MVVM 
 + Singleton
++ Swift Package Manager
+
 ## Endpoints
 + https://fakestoreapi.com/products
